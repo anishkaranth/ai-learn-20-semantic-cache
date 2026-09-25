@@ -90,12 +90,14 @@ def main() -> None:
         "cost_saving_pct": st["cost_saving_pct"], "latency_saving_pct": st["latency_saving_pct"],
         "pair_auc_hashed": m["pair_similarity"]["hashed"]["auc"], "pair_auc_tfidf": m["pair_similarity"]["tfidf"]["auc"],
     }
-    keep = ("threshold", "hit_rate", "false_hit_rate", "stale_rate", "wrong_answer_rate", "llm_calls", "cost_saving_pct", "latency_saving_pct",
-            "mean_lookup_ms_measured", "evicted", "expired")
-    slim = lambda rows: [{k: r[k] for k in keep} for r in rows]  # noqa: E731
-    m["sweep"] = {k: slim(v) for k, v in m["sweep"].items()}
-    m["eviction"]["lru_capacity"] = slim(m["eviction"]["lru_capacity"])
-    m["eviction"]["ttl_with_answer_update"] = slim(m["eviction"]["ttl_with_answer_update"])
+    def slim(rows, keep):
+        return [{k: r[k] for k in keep} for r in rows]
+
+    m["probe_sweep"] = {k: slim(v, ("threshold", "hit_rate", "false_hit_rate")) for k, v in m["probe_sweep"].items()}
+    m["sweep"] = {k: slim(v, ("threshold", "hit_rate", "false_hit_rate", "llm_calls", "cost_saving_pct")) for k, v in m["sweep"].items()}
+    ev_keep = ("hit_rate", "false_hit_rate", "stale_rate", "wrong_answer_rate", "llm_calls", "evicted", "expired")
+    m["eviction"]["lru_capacity"] = slim(m["eviction"]["lru_capacity"], ev_keep)
+    m["eviction"]["ttl_with_answer_update"] = slim(m["eviction"]["ttl_with_answer_update"], ev_keep)
     m["wall_time_s"] = time.perf_counter() - t0
     m = _r(m)
 

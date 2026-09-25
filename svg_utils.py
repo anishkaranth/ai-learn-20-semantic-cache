@@ -1,6 +1,7 @@
 """SVG minifier for matplotlib output (keeps SVGs small enough to commit as text)."""
 import re
 import xml.etree.ElementTree as ET
+from collections import Counter
 
 _SVG = "http://www.w3.org/2000/svg"
 _XL = "http://www.w3.org/1999/xlink"
@@ -13,7 +14,8 @@ def _r(s: str) -> str:
 
 
 def minify_svg(svg: str) -> str:
-    """Shrink matplotlib SVG: drop metadata/clip paths/unused ids, round coords, flatten bare groups."""
+    """Shrink matplotlib SVG: drop metadata/clip paths/unused ids, round coords, flatten bare groups,
+    and replace repeated inline styles with CSS classes."""
     root = ET.fromstring(svg.encode("utf-8"))
     used = set(re.findall(r'href="#([^"]+)"', svg))
 
@@ -52,5 +54,17 @@ def minify_svg(svg: str) -> str:
             el.tail = None
 
     clean(root)
+    styles = Counter(e.attrib["style"] for e in root.iter() if "style" in e.attrib)
+    cls = {s: f"s{i}" for i, (s, n) in enumerate(styles.most_common()) if n > 1}
+    for e in root.iter():
+        s = e.attrib.get("style")
+        if s in cls:
+            del e.attrib["style"]
+            e.set("class", cls[s])
+    if cls:
+        st = ET.SubElement(root, f"{{{_SVG}}}style", {"type": "text/css"})
+        st.text = "".join(f".{c}{{{s.replace(' ', '')}}}" for s, c in cls.items())
+        root.remove(st)
+        root.insert(0, st)
     out = ET.tostring(root, encoding="unicode").replace(" />", "/>").replace("><", ">\n<")
     return '<?xml version="1.0" encoding="utf-8"?>\n' + out + "\n"
