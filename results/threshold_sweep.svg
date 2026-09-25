@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="460.8pt" height="273.6pt" viewBox="0 0 460.8 273.6" version="1.1">
+<style type="text/css">.s0{fill:#126782;stroke:#126782}.s1{fill:#e76f51;stroke:#e76f51}.s2{stroke:#000000;stroke-width:0.8}.s3{font-size:10px;font-family:sans-serif;text-anchor:middle}.s4{font-size:10px;font-family:sans-serif;text-anchor:end}.s5{fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square}.s6{font-size:7px;font-family:sans-serif;text-anchor:start}.s7{fill:#ffffff}.s8{fill:none;stroke:#126782;stroke-width:1.5;stroke-linecap:square}.s9{stroke:#126782}.s10{fill:none;stroke-dasharray:5.55,2.4;stroke-dashoffset:0;stroke:#126782;stroke-width:1.5}.s11{fill:none;stroke:#e76f51;stroke-width:1.5;stroke-linecap:square}.s12{stroke:#e76f51}.s13{fill:none;stroke-dasharray:5.55,2.4;stroke-dashoffset:0;stroke:#e76f51;stroke-width:1.5}</style>
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 273.6 L 460.8 273.6 L 460.8 0 L 0 0 z" class="s7"/>
+<path d="M 48 231.5 L 450 231.5 L 450 26.2 L 48 26.2 z" class="s7"/>
+<defs>
+<path id="mc99768f008" d="M 0 0 L 0 3.5" class="s2"/>
+</defs>
+<use xlink:href="#mc99768f008" x="109.2" y="231.5" class="s2"/>
+<text x="109.2" y="246.1" class="s3">0.2</text>
+<use xlink:href="#mc99768f008" x="195.2" y="231.5" class="s2"/>
+<text x="195.2" y="246.1" class="s3">0.4</text>
+<use xlink:href="#mc99768f008" x="281.2" y="231.5" class="s2"/>
+<text x="281.2" y="246.1" class="s3">0.6</text>
+<use xlink:href="#mc99768f008" x="367.2" y="231.5" class="s2"/>
+<text x="367.2" y="246.1" class="s3">0.8</text>
+<text x="249" y="260.1" class="s3">similarity threshold</text>
+<defs>
+<path id="mad7efcb529" d="M 0 0 L -3.5 0" class="s2"/>
+</defs>
+<use xlink:href="#mad7efcb529" x="48" y="222.1" class="s2"/>
+<text x="41" y="225.9" class="s4">0.0</text>
+<use xlink:href="#mad7efcb529" x="48" y="179.5" class="s2"/>
+<text x="41" y="183.3" class="s4">0.2</text>
+<use xlink:href="#mad7efcb529" x="48" y="136.8" class="s2"/>
+<text x="41" y="140.6" class="s4">0.4</text>
+<use xlink:href="#mad7efcb529" x="48" y="94.2" class="s2"/>
+<text x="41" y="98" class="s4">0.6</text>
+<use xlink:href="#mad7efcb529" x="48" y="51.5" class="s2"/>
+<text x="41" y="55.3" class="s4">0.8</text>
+<text x="18.7" y="128.8" transform="rotate(-90 18.7 128.8)" class="s3">fraction of queries</text>
+<path d="M 66.2 35.5 L 87.7 35.5 L 109.2 42.1 L 130.7 48.8 L 152.2 75.5 L 173.7 82.2 L 195.2 82.2 L 216.7 108.8 L 238.2 122.1 L 259.7 135.5 L 281.2 148.8 L 302.7 168.8 L 324.2 182.1 L 345.7 182.1 L 367.2 208.8 L 388.7 208.8 L 410.2 208.8 L 431.7 208.8" class="s8"/>
+<defs>
+<path id="m2f14e1f53d" d="M 0 1.5 C 0.4 1.5 0.8 1.3 1.1 1.1 C 1.3 0.8 1.5 0.4 1.5 0 C 1.5 -0.4 1.3 -0.8 1.1 -1.1 C 0.8 -1.3 0.4 -1.5 0 -1.5 C -0.4 -1.5 -0.8 -1.3 -1.1 -1.1 C -1.3 -0.8 -1.5 -0.4 -1.5 0 C -1.5 0.4 -1.3 0.8 -1.1 1.1 C -0.8 1.3 -0.4 1.5 0 1.5 z" class="s9"/>
+</defs>
+<use xlink:href="#m2f14e1f53d" x="66.2" y="35.5" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="87.7" y="35.5" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="109.2" y="42.1" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="130.7" y="48.8" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="152.2" y="75.5" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="173.7" y="82.2" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="195.2" y="82.2" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="216.7" y="108.8" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="238.2" y="122.1" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="259.7" y="135.5" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="281.2" y="148.8" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="302.7" y="168.8" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="324.2" y="182.1" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="345.7" y="182.1" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="367.2" y="208.8" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="388.7" y="208.8" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="410.2" y="208.8" class="s0"/>
+<use xlink:href="#m2f14e1f53d" x="431.7" y="208.8" class="s0"/>
+<path d="M 66.2 145.5 L 87.7 145.5 L 109.2 148.8 L 130.7 155.5 L 152.2 185.5 L 173.7 205.5 L 195.2 215.5 L 216.7 218.8 L 238.2 222.1 L 259.7 222.1 L 281.2 222.1 L 302.7 222.1 L 324.2 222.1 L 345.7 222.1 L 367.2 222.1 L 388.7 222.1 L 410.2 222.1 L 431.7 222.1" class="s10"/>
+<defs>
+<path id="m389e32eea8" d="M -2 2 L 2 -2 M -2 -2 L 2 2" class="s9"/>
+</defs>
+<use xlink:href="#m389e32eea8" x="66.2" y="145.5" class="s0"/>
+<use xlink:href="#m389e32eea8" x="87.7" y="145.5" class="s0"/>
+<use xlink:href="#m389e32eea8" x="109.2" y="148.8" class="s0"/>
+<use xlink:href="#m389e32eea8" x="130.7" y="155.5" class="s0"/>
+<use xlink:href="#m389e32eea8" x="152.2" y="185.5" class="s0"/>
+<use xlink:href="#m389e32eea8" x="173.7" y="205.5" class="s0"/>
+<use xlink:href="#m389e32eea8" x="195.2" y="215.5" class="s0"/>
+<use xlink:href="#m389e32eea8" x="216.7" y="218.8" class="s0"/>
+<use xlink:href="#m389e32eea8" x="238.2" y="222.1" class="s0"/>
+<use xlink:href="#m389e32eea8" x="259.7" y="222.1" class="s0"/>
+<use xlink:href="#m389e32eea8" x="281.2" y="222.1" class="s0"/>
+<use xlink:href="#m389e32eea8" x="302.7" y="222.1" class="s0"/>
+<use xlink:href="#m389e32eea8" x="324.2" y="222.1" class="s0"/>
+<use xlink:href="#m389e32eea8" x="345.7" y="222.1" class="s0"/>
+<use xlink:href="#m389e32eea8" x="367.2" y="222.1" class="s0"/>
+<use xlink:href="#m389e32eea8" x="388.7" y="222.1" class="s0"/>
+<use xlink:href="#m389e32eea8" x="410.2" y="222.1" class="s0"/>
+<use xlink:href="#m389e32eea8" x="431.7" y="222.1" class="s0"/>
+<path d="M 195.2 231.5 L 195.2 26.2" style="fill: none; stroke: #126782; stroke-opacity: 0.5; stroke-width: 0.8; stroke-linecap: square"/>
+<path d="M 66.2 35.5 L 87.7 55.5 L 109.2 68.8 L 130.7 88.8 L 152.2 108.8 L 173.7 115.5 L 195.2 155.5 L 216.7 162.2 L 238.2 168.8 L 259.7 175.5 L 281.2 182.1 L 302.7 188.8 L 324.2 188.8 L 345.7 208.8 L 367.2 208.8 L 388.7 208.8 L 410.2 208.8 L 431.7 208.8" class="s11"/>
+<defs>
+<path id="m7aa15d4fc6" d="M 0 1.5 C 0.4 1.5 0.8 1.3 1.1 1.1 C 1.3 0.8 1.5 0.4 1.5 0 C 1.5 -0.4 1.3 -0.8 1.1 -1.1 C 0.8 -1.3 0.4 -1.5 0 -1.5 C -0.4 -1.5 -0.8 -1.3 -1.1 -1.1 C -1.3 -0.8 -1.5 -0.4 -1.5 0 C -1.5 0.4 -1.3 0.8 -1.1 1.1 C -0.8 1.3 -0.4 1.5 0 1.5 z" class="s12"/>
+</defs>
+<use xlink:href="#m7aa15d4fc6" x="66.2" y="35.5" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="87.7" y="55.5" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="109.2" y="68.8" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="130.7" y="88.8" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="152.2" y="108.8" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="173.7" y="115.5" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="195.2" y="155.5" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="216.7" y="162.2" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="238.2" y="168.8" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="259.7" y="175.5" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="281.2" y="182.1" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="302.7" y="188.8" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="324.2" y="188.8" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="345.7" y="208.8" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="367.2" y="208.8" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="388.7" y="208.8" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="410.2" y="208.8" class="s1"/>
+<use xlink:href="#m7aa15d4fc6" x="431.7" y="208.8" class="s1"/>
+<path d="M 66.2 145.5 L 87.7 185.5 L 109.2 208.8 L 130.7 218.8 L 152.2 222.1 L 173.7 222.1 L 195.2 222.1 L 216.7 222.1 L 238.2 222.1 L 259.7 222.1 L 281.2 222.1 L 302.7 222.1 L 324.2 222.1 L 345.7 222.1 L 367.2 222.1 L 388.7 222.1 L 410.2 222.1 L 431.7 222.1" class="s13"/>
+<defs>
+<path id="ma509e13fc5" d="M -2 2 L 2 -2 M -2 -2 L 2 2" class="s12"/>
+</defs>
+<use xlink:href="#ma509e13fc5" x="66.2" y="145.5" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="87.7" y="185.5" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="109.2" y="208.8" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="130.7" y="218.8" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="152.2" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="173.7" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="195.2" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="216.7" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="238.2" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="259.7" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="281.2" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="302.7" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="324.2" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="345.7" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="367.2" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="388.7" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="410.2" y="222.1" class="s1"/>
+<use xlink:href="#ma509e13fc5" x="431.7" y="222.1" class="s1"/>
+<path d="M 130.7 231.5 L 130.7 26.2" style="fill: none; stroke: #e76f51; stroke-opacity: 0.5; stroke-width: 0.8; stroke-linecap: square"/>
+<path d="M 48 231.5 L 48 26.2" class="s5"/>
+<path d="M 450 231.5 L 450 26.2" class="s5"/>
+<path d="M 48 231.5 L 450 231.5" class="s5"/>
+<path d="M 48 26.2 L 450 26.2" class="s5"/>
+<text style="font-size: 12px; font-family: sans-serif; text-anchor: middle" x="249" y="20.2">Probe set: hit rate vs false hits (vertical = chosen)</text>
+<path d="M 288.4 73.8 L 445.1 73.8 Q 446.5 73.8 446.5 72.4 L 446.5 31.1 Q 446.5 29.7 445.1 29.7 L 288.4 29.7 Q 287 29.7 287 31.1 L 287 72.4 Q 287 73.8 288.4 73.8 z" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+<path d="M 289.8 35.3 L 296.8 35.3 L 303.8 35.3" class="s8"/>
+<use xlink:href="#m2f14e1f53d" x="296.8" y="35.3" class="s0"/>
+<text x="309.4" y="37.8" class="s6">hashed: hit rate (cached paraphrases)</text>
+<path d="M 289.8 45.8 L 296.8 45.8 L 303.8 45.8" class="s10"/>
+<use xlink:href="#m389e32eea8" x="296.8" y="45.8" class="s0"/>
+<text x="309.4" y="48.3" class="s6">hashed: false-hit rate (wrong answer)</text>
+<path d="M 289.8 56.3 L 296.8 56.3 L 303.8 56.3" class="s11"/>
+<use xlink:href="#m7aa15d4fc6" x="296.8" y="56.3" class="s1"/>
+<text x="309.4" y="58.8" class="s6">tfidf: hit rate (cached paraphrases)</text>
+<path d="M 289.8 66.8 L 296.8 66.8 L 303.8 66.8" class="s13"/>
+<use xlink:href="#ma509e13fc5" x="296.8" y="66.8" class="s1"/>
+<text x="309.4" y="69.3" class="s6">tfidf: false-hit rate (wrong answer)</text>
+</svg>
