@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="604.8pt" height="244.8pt" viewBox="0 0 604.8 244.8" version="1.1">
+<style type="text/css">.s0{stroke:#000000;stroke-width:0.8}.s1{font-size:10px;font-family:sans-serif;text-anchor:middle}.s2{fill:#126782;stroke:#126782}.s3{font-size:10px;font-family:sans-serif;text-anchor:end}.s4{fill:none;stroke:#000000;stroke-width:0.8;stroke-linejoin:miter;stroke-linecap:square}.s5{fill:#e76f51;stroke:#e76f51}.s6{fill:#6a4c93;stroke:#6a4c93;stroke-linejoin:miter}.s7{fill:none;stroke:#126782;stroke-width:1.5;stroke-linecap:square}.s8{font-size:7px;font-family:sans-serif;text-anchor:start}.s9{fill:#ffffff}.s10{fill:none;stroke-dasharray:5.55,2.4;stroke-dashoffset:0;stroke:#e76f51;stroke-width:1.5}.s11{font-size:12px;font-family:sans-serif;text-anchor:middle}.s12{fill:#ffffff;opacity:0.8;stroke:#cccccc;stroke-linejoin:miter}.s13{fill:none;stroke-dasharray:5.55,2.4;stroke-dashoffset:0;stroke:#6a4c93;stroke-width:1.5}</style>
+<defs>
+<style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+</defs>
+<path d="M 0 244.8 L 604.8 244.8 L 604.8 0 L 0 0 z" class="s9"/>
+<path d="M 33.6 202.4 L 297 202.4 L 297 26.2 L 33.6 26.2 z" class="s9"/>
+<defs>
+<path id="mc99768f008" d="M 0 0 L 0 3.5" class="s0"/>
+</defs>
+<use xlink:href="#mc99768f008" x="45.6" y="202.4" class="s0"/>
+<text x="45.6" y="217" class="s1">2</text>
+<use xlink:href="#mc99768f008" x="93.5" y="202.4" class="s0"/>
+<text x="93.5" y="217" class="s1">4</text>
+<use xlink:href="#mc99768f008" x="141.4" y="202.4" class="s0"/>
+<text x="141.4" y="217" class="s1">8</text>
+<use xlink:href="#mc99768f008" x="189.3" y="202.4" class="s0"/>
+<text x="189.3" y="217" class="s1">16</text>
+<use xlink:href="#mc99768f008" x="237.1" y="202.4" class="s0"/>
+<text x="237.1" y="217" class="s1">32</text>
+<use xlink:href="#mc99768f008" x="285" y="202.4" class="s0"/>
+<text x="285" y="217" class="s1">inf</text>
+<text x="165.3" y="231" class="s1">LRU capacity (entries)</text>
+<defs>
+<path id="mad7efcb529" d="M 0 0 L -3.5 0" class="s0"/>
+</defs>
+<use xlink:href="#mad7efcb529" x="33.6" y="194.8" class="s0"/>
+<text x="26.6" y="198.6" class="s3">0.0</text>
+<use xlink:href="#mad7efcb529" x="33.6" y="162" class="s0"/>
+<text x="26.6" y="165.8" class="s3">0.2</text>
+<use xlink:href="#mad7efcb529" x="33.6" y="129.2" class="s0"/>
+<text x="26.6" y="133" class="s3">0.4</text>
+<use xlink:href="#mad7efcb529" x="33.6" y="96.5" class="s0"/>
+<text x="26.6" y="100.3" class="s3">0.6</text>
+<use xlink:href="#mad7efcb529" x="33.6" y="63.7" class="s0"/>
+<text x="26.6" y="67.5" class="s3">0.8</text>
+<use xlink:href="#mad7efcb529" x="33.6" y="31" class="s0"/>
+<text x="26.6" y="34.8" class="s3">1.0</text>
+<path d="M 45.6 167 L 93.5 146.5 L 141.4 114.2 L 189.3 73.6 L 237.1 37.8 L 285 34.2" class="s7"/>
+<defs>
+<path id="m33ddbec3d8" d="M 0 3 C 0.8 3 1.6 2.7 2.1 2.1 C 2.7 1.6 3 0.8 3 0 C 3 -0.8 2.7 -1.6 2.1 -2.1 C 1.6 -2.7 0.8 -3 0 -3 C -0.8 -3 -1.6 -2.7 -2.1 -2.1 C -2.7 -1.6 -3 -0.8 -3 0 C -3 0.8 -2.7 1.6 -2.1 2.1 C -1.6 2.7 -0.8 3 0 3 z" style="stroke: #126782"/>
+</defs>
+<use xlink:href="#m33ddbec3d8" x="45.6" y="167" class="s2"/>
+<use xlink:href="#m33ddbec3d8" x="93.5" y="146.5" class="s2"/>
+<use xlink:href="#m33ddbec3d8" x="141.4" y="114.2" class="s2"/>
+<use xlink:href="#m33ddbec3d8" x="189.3" y="73.6" class="s2"/>
+<use xlink:href="#m33ddbec3d8" x="237.1" y="37.8" class="s2"/>
+<use xlink:href="#m33ddbec3d8" x="285" y="34.2" class="s2"/>
+<path d="M 45.6 194.3 L 93.5 194 L 141.4 193.4 L 189.3 192.5 L 237.1 193.6 L 285 193.8" class="s10"/>
+<defs>
+<path id="m525d8a383a" d="M -3 3 L 3 -3 M -3 -3 L 3 3" style="stroke: #e76f51"/>
+</defs>
+<use xlink:href="#m525d8a383a" x="45.6" y="194.3" class="s5"/>
+<use xlink:href="#m525d8a383a" x="93.5" y="194" class="s5"/>
+<use xlink:href="#m525d8a383a" x="141.4" y="193.4" class="s5"/>
+<use xlink:href="#m525d8a383a" x="189.3" y="192.5" class="s5"/>
+<use xlink:href="#m525d8a383a" x="237.1" y="193.6" class="s5"/>
+<use xlink:href="#m525d8a383a" x="285" y="193.8" class="s5"/>
+<path d="M 33.6 202.4 L 33.6 26.2" class="s4"/>
+<path d="M 297 202.4 L 297 26.2" class="s4"/>
+<path d="M 33.6 202.4 L 297 202.4" class="s4"/>
+<path d="M 33.6 26.2 L 297 26.2" class="s4"/>
+<text x="165.3" y="20.2" class="s11">LRU eviction</text>
+<path d="M 38.5 52.8 L 105.7 52.8 Q 107.1 52.8 107.1 51.4 L 107.1 31.1 Q 107.1 29.7 105.7 29.7 L 38.5 29.7 Q 37.1 29.7 37.1 31.1 L 37.1 51.4 Q 37.1 52.8 38.5 52.8 z" class="s12"/>
+<path d="M 39.9 35.3 L 46.9 35.3 L 53.9 35.3" class="s7"/>
+<use xlink:href="#m33ddbec3d8" x="46.9" y="35.3" class="s2"/>
+<text x="59.5" y="37.8" class="s8">hit rate</text>
+<path d="M 39.9 45.8 L 46.9 45.8 L 53.9 45.8" class="s10"/>
+<use xlink:href="#m525d8a383a" x="46.9" y="45.8" class="s5"/>
+<text x="59.5" y="48.3" class="s8">false-hit rate</text>
+<path d="M 330.6 202.4 L 594 202.4 L 594 26.2 L 330.6 26.2 z" class="s9"/>
+<use xlink:href="#mc99768f008" x="342.6" y="202.4" class="s0"/>
+<text x="342.6" y="217" class="s1">25</text>
+<use xlink:href="#mc99768f008" x="390.5" y="202.4" class="s0"/>
+<text x="390.5" y="217" class="s1">50</text>
+<use xlink:href="#mc99768f008" x="438.4" y="202.4" class="s0"/>
+<text x="438.4" y="217" class="s1">100</text>
+<use xlink:href="#mc99768f008" x="486.3" y="202.4" class="s0"/>
+<text x="486.3" y="217" class="s1">200</text>
+<use xlink:href="#mc99768f008" x="534.1" y="202.4" class="s0"/>
+<text x="534.1" y="217" class="s1">400</text>
+<use xlink:href="#mc99768f008" x="582" y="202.4" class="s0"/>
+<text x="582" y="217" class="s1">inf</text>
+<text x="462.3" y="231" class="s1">TTL (requests)</text>
+<use xlink:href="#mad7efcb529" x="330.6" y="194.5" class="s0"/>
+<text x="323.6" y="198.3" class="s3">0.0</text>
+<use xlink:href="#mad7efcb529" x="330.6" y="161.8" class="s0"/>
+<text x="323.6" y="165.6" class="s3">0.2</text>
+<use xlink:href="#mad7efcb529" x="330.6" y="129.1" class="s0"/>
+<text x="323.6" y="132.9" class="s3">0.4</text>
+<use xlink:href="#mad7efcb529" x="330.6" y="96.4" class="s0"/>
+<text x="323.6" y="100.2" class="s3">0.6</text>
+<use xlink:href="#mad7efcb529" x="330.6" y="63.7" class="s0"/>
+<text x="323.6" y="67.5" class="s3">0.8</text>
+<use xlink:href="#mad7efcb529" x="330.6" y="31" class="s0"/>
+<text x="323.6" y="34.8" class="s3">1.0</text>
+<path d="M 342.6 104.9 L 390.5 84 L 438.4 66.5 L 486.3 53.5 L 534.1 44.8 L 582 34.2" class="s7"/>
+<use xlink:href="#m33ddbec3d8" x="342.6" y="104.9" class="s2"/>
+<use xlink:href="#m33ddbec3d8" x="390.5" y="84" class="s2"/>
+<use xlink:href="#m33ddbec3d8" x="438.4" y="66.5" class="s2"/>
+<use xlink:href="#m33ddbec3d8" x="486.3" y="53.5" class="s2"/>
+<use xlink:href="#m33ddbec3d8" x="534.1" y="44.8" class="s2"/>
+<use xlink:href="#m33ddbec3d8" x="582" y="34.2" class="s2"/>
+<path d="M 342.6 194.3 L 390.5 193.5 L 438.4 192.2 L 486.3 192.2 L 534.1 185.5 L 582 157.4" class="s13"/>
+<defs>
+<path id="m3269d076f4" d="M -3 3 L 3 3 L 3 -3 L -3 -3 z" style="stroke: #6a4c93; stroke-linejoin: miter"/>
+</defs>
+<use xlink:href="#m3269d076f4" x="342.6" y="194.3" class="s6"/>
+<use xlink:href="#m3269d076f4" x="390.5" y="193.5" class="s6"/>
+<use xlink:href="#m3269d076f4" x="438.4" y="192.2" class="s6"/>
+<use xlink:href="#m3269d076f4" x="486.3" y="192.2" class="s6"/>
+<use xlink:href="#m3269d076f4" x="534.1" y="185.5" class="s6"/>
+<use xlink:href="#m3269d076f4" x="582" y="157.4" class="s6"/>
+<path d="M 330.6 202.4 L 330.6 26.2" class="s4"/>
+<path d="M 594 202.4 L 594 26.2" class="s4"/>
+<path d="M 330.6 202.4 L 594 202.4" class="s4"/>
+<path d="M 330.6 26.2 L 594 26.2" class="s4"/>
+<text x="462.3" y="20.2" class="s11">TTL with an answer update at t=1000</text>
+<path d="M 335.5 52.8 L 419.1 52.8 Q 420.5 52.8 420.5 51.4 L 420.5 31.1 Q 420.5 29.7 419.1 29.7 L 335.5 29.7 Q 334.1 29.7 334.1 31.1 L 334.1 51.4 Q 334.1 52.8 335.5 52.8 z" class="s12"/>
+<path d="M 336.9 35.3 L 343.9 35.3 L 350.9 35.3" class="s7"/>
+<use xlink:href="#m33ddbec3d8" x="343.9" y="35.3" class="s2"/>
+<text x="356.5" y="37.8" class="s8">hit rate</text>
+<path d="M 336.9 45.8 L 343.9 45.8 L 350.9 45.8" class="s13"/>
+<use xlink:href="#m3269d076f4" x="343.9" y="45.8" class="s6"/>
+<text x="356.5" y="48.3" class="s8">stale-answer rate</text>
+</svg>
